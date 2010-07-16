@@ -1,0 +1,12 @@
+== About
+I wrote this library shortly after taking a linear algebra class.  I was interested in some game-related concepts that involved a lot of line/plane intersections.  I didn't find a particular Java library to my liking (although there certainly are good math libraries out there), and I sort of wanted to experience writing a library for myself, so I produced this.  
+
+One class of particular use is AdvancedGMatrix.  It extends from javax.vecmath.GMatrix and allows you to solve linear systems expressed using the matrix.
+
+Note that this requires the javax.vecmath library.
+
+== What might be useful
+Unit tests!
+
+== License
+You may assume all code is provided under GPLv3.
